@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KevinGama</string>
+    <string name="numero1">Digite um número:</string>
+    <string name="numero2">Digite outro número:</string>
+
+    <string name="soma">+</string>
+    <string name="subtracao">-</string>
+    <string name="multiplicacao">*</string>
+    <string name="divisao">/</string>
+
+    <string name="resultado">Resultado</string>
+</resources>
